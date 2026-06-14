@@ -41,6 +41,14 @@
             <scope>compile</scope>
         </dependency>
 
+        <!-- Source: https://mvnrepository.com/artifact/com.auth0/jwks-rsa -->
+        <dependency>
+            <groupId>com.auth0</groupId>
+            <artifactId>jwks-rsa</artifactId>
+            <version>0.24.1</version>
+            <scope>compile</scope>
+        </dependency>
+
         <!-- Regular Dependencies -->
 
         <dependency>
